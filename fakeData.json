@@ -1,0 +1,80 @@
+[
+    {
+    "image_url": "https://i.ibb.co/9NxfLy6/antoine-gayraud-v-Nff-Yb-M-50k-unsplash.jpg",
+    "estate_title": "Modern Student Apartment near University Campus",
+    "id": "SHRE001",
+    "segment_name": "Apartment",
+    "description": "This modern student apartment is conveniently located near the university campus, offering comfortable living spaces and various amenities.",
+    "price": "$1000/month",
+    "status": "rent",
+    "area": "800 sq ft",
+    "location": "123 University Avenue, Cityville",
+    "facilities": ["Living room", "Swimming pool", "Kitchen"]
+ 
+    },
+    {
+    "image_url": "https://i.ibb.co/wZts7Rk/gabriel-beaudry-Wu-QME0-I-o-ZA-unsplash.jpg",
+    "estate_title": "Cozy Student House with Garden",
+    "id": "SHRE002",
+    "segment_name": "House",
+    "description": "This cozy student house features a spacious garden, perfect for outdoor activities and relaxation.",
+    "price": "$150,000",
+    "status": "sale",
+    "area": "2000 sq ft",
+    "location": "456 College Street, Townsville",
+    "facilities": ["Living room", "Garden", "Kitchen", "Study room"]
+   
+    },
+    {
+    "image_url": "https://i.ibb.co/CQxLM03/chuttersnap-ft-G8-Wc-Hwg7o-unsplash.jpg",
+    "estate_title": "Shared Student Dormitory",
+    "id": "SHRE003",
+    "segment_name": "Dormitory",
+    "description": "This shared student dormitory offers affordable accommodation with shared facilities and a vibrant community atmosphere.",
+    "price": "$500/month (per bed)",
+    "status": "rent",
+    "area": "Shared space",
+    "location": "789 Dorm Lane, Dormville",
+    "facilities": ["Shared bedrooms", "Common area", "Study rooms", "Laundry facilities"]
+  
+    },
+    {
+    "image_url": "https://i.ibb.co/CzjXZVg/antoine-gayraud-v-Nff-Yb-M-50k-unsplash.jpg",
+    "estate_title": "Studio Apartment in the Heart of Campus",
+    "id": "SHRE004",
+    "segment_name": "Apartment",
+    "description": "This studio apartment offers convenient living in the heart of the campus, ideal for students looking for proximity to academic buildings and amenities.",
+    "price": "$1200/month",
+    "status": "rent",
+    "area": "600 sq ft",
+    "location": "101 Campus Drive, Campus City",
+    "facilities": ["Studio room", "Kitchenette", "Bathroom"]
+ 
+    },
+    {
+    "image_url": "https://i.ibb.co/jVtpbxb/jonathan-borba-w-D3dur3v9a-E-unsplash.jpg",
+    "estate_title": "Renovated Student House with Study Spaces",
+    "id": "SHRE005",
+    "segment_name": "House",
+    "description": "This renovated student house offers comfortable living spaces along with dedicated study areas, perfect for academic focus and relaxation.",
+    "price": "$175,000",
+    "status": "sale",
+    "area": "1800 sq ft",
+    "location": "210 Study Lane, Scholarville",
+    "facilities": ["Living room", "Study room", "Kitchen", "Backyard"]
+   
+    },
+    {
+    "image_url": "https://i.ibb.co/gPwFBXs/norbert-levajsics-o-TJ92-KUXHls-unsplash.jpg",
+    "estate_title": "Modern Student Condo with Fitness Center",
+    "id": "SHRE006",
+    "segment_name": "Condo",
+    "description": "This modern student condo offers luxurious amenities including a fitness center, ideal for students seeking a balance between academic and wellness activities.",
+    "price": "$1300/month",
+    "status": "rent",
+    "area": "1000 sq ft",
+    "location": "789 Fitness Avenue, Fitville",
+    "facilities": ["Living room", "Fitness center", "Kitchen", "Balcony"]
+  
+    }
+    ]
