@@ -1,0 +1,23 @@
+[
+    { "id": 1, "cityName": "New York, NY" },
+    { "id": 2, "cityName": "Los Angeles, CA" },
+    { "id": 3, "cityName": "Chicago, IL" },
+    { "id": 4, "cityName": "Houston, TX" },
+    { "id": 5, "cityName": "Phoenix, AZ" },
+    { "id": 6, "cityName": "Philadelphia, PA" },
+    { "id": 7, "cityName": "San Antonio, TX" },
+    { "id": 8, "cityName": "San Diego, CA" },
+    { "id": 9, "cityName": "Dallas, TX" },
+    { "id": 10, "cityName": "San Jose, CA" },
+    { "id": 11, "cityName": "Austin, TX" },
+    { "id": 12, "cityName": "Jacksonville, FL" },
+    { "id": 13, "cityName": "San Francisco, CA" },
+    { "id": 14, "cityName": "Columbus, OH" },
+    { "id": 15, "cityName": "Indianapolis, IN" },
+    { "id": 16, "cityName": "Charlotte, NC" },
+    { "id": 17, "cityName": "Seattle, WA" },
+    { "id": 18, "cityName": "Denver, CO" },
+    { "id": 19, "cityName": "Washington, DC" },
+    { "id": 20, "cityName": "Boston, MA" },
+    { "id": 21, "cityName": "El Paso, TX" }
+  ]
